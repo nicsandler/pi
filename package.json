@@ -68,6 +68,6 @@
 	},
 	"version": "0.0.3",
 	"overrides": {
-		"protobufjs": "7.6.6"
+		"protobufjs@<8.8.0": "8.8.0"
 	}
 }
